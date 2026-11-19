@@ -1,0 +1,9 @@
+install.packages(c(
+  "lmtest",
+  "car",
+  "dplyr",
+  "tidyr",
+  "ggplot2",
+  "scales",
+  "glmnet"
+))
